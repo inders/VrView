@@ -25,6 +25,9 @@ import android.support.v7.widget.Toolbar;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Code is taken from google code labs of VR view
+    //https://codelabs.developers.google.com/codelabs/vr_view_app_101/index.html?index=..%2F..%2Findex#6
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
